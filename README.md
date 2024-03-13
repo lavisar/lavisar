@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=lavisar">
   <img src="https://shields.io/github/stars/lavisar">
   <img src="https://img.shields.io/github/followers/lavisar">
-  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=Frontend%20Developer&style=style=flat&color=red">
+  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=Software%20Engineer&style=style=flat&color=red">
 </p>
 
 ### 🛠 My knowledge 
