@@ -28,7 +28,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/next.js-282C34?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS logo" title="NextJS" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Next.js-282C34?logo=nextdotjs&logoColor=white" alt="NextJS logo" title="NextJS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
 &nbsp;
