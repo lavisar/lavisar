@@ -30,6 +30,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Next.js-282C34?logo=nextdotjs&logoColor=white" alt="NextJS logo" title="NextJS" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/React%20Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React-Native" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
