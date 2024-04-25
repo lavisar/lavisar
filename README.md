@@ -1,7 +1,7 @@
 
-<a href="#" target="_blank">
+<!-- <a href="#" target="_blank">
   <img src="./img/custom_img.gif" width="1200" alt="lavisar-image" />
-</a>
+</a> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lavisar">
