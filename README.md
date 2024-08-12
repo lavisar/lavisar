@@ -42,7 +42,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Mysql-282C34?logo=mysql&logoColor=4479A1" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 
-### :fire: My Stats
+ <!--  ### :fire: My Stats
 
 <div align=center>
   <a href="#" title="lavisar">
@@ -51,7 +51,7 @@
   <a href="#" title="lavisar">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=lavisar&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
-</div>
+</div> -->
 
 ### 🌐️ Contact me
 
