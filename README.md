@@ -1,1 +1,1 @@
-<a href="mailto:lavisar.dev@gmail.com"><img alt="Email Me (lavisar.dev@gmail.com)" src="https://github.com/lavisar/lavisar/raw/master/assets/background.svg"/></a>
+<a href="mailto:lavisar.dev@gmail.com"><img alt="Email Me (lavisar.dev@gmail.com)" src="https://github.com/lavisar/lavisar/raw/main/assets/background.svg"/></a>
