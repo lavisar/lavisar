@@ -5,7 +5,6 @@ Sign: Lavisar -->
 <a href="mailto:lavisar.dev@gmail.com">
     <img alt="Email Me (lavisar.dev@gmail.com)" src="https://github.com/lavisar/lavisar/raw/main/assets/bg.svg"/>
 </a>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lavisar">
   <img src="https://shields.io/github/stars/lavisar">
