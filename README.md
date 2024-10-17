@@ -1,7 +1,7 @@
 <a href="mailto:lavisar.dev@gmail.com">
     <!-- ********* AUTHOR AND CREDITS ********* -->
     <!-- This Section of my profile profile has been inspired and learned from https://github.com/timolins.
-    All credit goes to https://github.com/timolins. - Sign: Lavisar -->
+    All credit goes to https://github.com/timolins. - Lavisar -->
     <img alt="Email Me (lavisar.dev@gmail.com)" src="https://github.com/lavisar/lavisar/raw/main/assets/bg.svg"/>
 </a>
 <p align="center">
