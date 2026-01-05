@@ -1,9 +1,7 @@
-<a href="mailto:lavisar.dev@gmail.com">
-    <!-- ********* AUTHOR AND CREDITS ********* -->
-    <!-- This Section of my profile profile has been inspired and learned from https://github.com/timolins.
-    All credit goes to https://github.com/timolins. - Lavisar -->
+<!-- <a href="mailto:lavisar.dev@gmail.com"> -->
+    <!-- This Section of my profile profile has been inspired and learned from https://github.com/timolins. -->
     <img alt="Email Me (lavisar.dev@gmail.com)" src="https://github.com/lavisar/lavisar/raw/main/assets/bg.svg"/>
-</a>
+<!-- </a> -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lavisar">
   <!-- <img src="https://shields.io/github/stars/lavisar"> -->
